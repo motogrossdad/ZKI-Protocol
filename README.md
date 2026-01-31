@@ -5,7 +5,8 @@ Data is no longer the "New Oil." In 2026, Data is Toxic Waste. Every time a comp
 The Revolution
 We are replacing Data Storage with Cryptographic Proofs. ZKI-Protocol allows any human to prove a fact (I am over 18, I am a citizen, I have $500) without ever showing the raw data.
 
-The goal is simple: 1. You keep your data on your device. 2. They get a mathematical "Yes" or "No." 3. The Risk for both parties drops to zero.
+The goal is simple: 1. You keep your data on your device. 2. They get a mathematical "Yes" or "No." 3. The Risk for both parties drops to ze
+ro.
 
 Why it will be accepted (The "Triple Win")
 1. For Companies: "Liability Off-ramping"
@@ -17,5 +18,4 @@ Imagine never filling out a form again. Your "Local Agent" sees the website aski
 3. For the World: "Deepfake Immunity"
 As AI deepfakes get better, we can't trust "photos" of IDs anymore. ZKI-Protocol uses Mathematical Attestation. You aren't sending a picture of a passport; you are sending a cryptographic proof signed by the issuing authority. You can't deepfake a prime number.
 
-Your 2-Hour "Launch" Script
-Add this file, verify.py, to the same repo. It's a "simulated" ZK-Proof that demonstrates the logic: A verifier asks a question, and the prover answers without revealing the secret.
+
