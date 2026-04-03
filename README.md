@@ -4,7 +4,7 @@
 
 Every time a company stores your birthdate, your home address, or your ID, they are storing a liability. When they get hacked — and [they will](https://larevuetech.fr/hackers-hit-ticketing-giant-vivaticket-disrupting-up-to-3500-venues-worldwide/) — the "spill" costs them billions and costs you your privacy.
 
-In March 2026, a single ransomware attack on ticketing giant Vivaticket disrupted 3,500 venues worldwide — the Louvre, Disney World, Ferrari World. Names, emails, purchase histories: all exposed. Not because the venues were careless, but because they **stored data they never needed to see**.
+In March 2026, a single ransomware attack disrupted 3,500 venues worldwide. Names, emails, purchase histories: all exposed. Not because the venues were careless, but because they **stored data they never needed to see**.
 
 ## The Solution
 
